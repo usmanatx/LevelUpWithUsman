@@ -1,16 +1,16 @@
 # Questions to Ask During an Interview
 
-### 1. **Understand the Role's Landscape**
+### 1. **Understand the Role**
    - What are the current challenges for this position?  
    - How will do you measure success in the first 90 days?  
    - How does this role contribute to the broader team and company goals?  
 
-### 2. **Explore Skill Alignment**
+### 2. **Skill Related Questions**
    - Which specific skills are critical for this role right now?  
    - Are there any skill gaps in the team that this position aims to fill?  
    - How do the required skills align with the current project roadmap?  
 
-### 3. **Ramp-Up**
+### 3. **Ramp Up Questions**
    - What does the typical onboarding process look like for this role?  
    - How long does it usually take for a new team member to become fully productive?  
    - Are there specific resources or training programs available for new hires?  
@@ -20,7 +20,7 @@
    - What specific skills or experiences are you looking for that I should develop further?  
    - How can I best prepare myself to excel in this role?  
 
-### 5. **Company Culture and Growth**
+### 5. **Company Culture & Growth**
    - Can you share more about the team’s work style and culture?  
    - What opportunities for professional growth and development are available?  
    - How does the company support employees in achieving their career goals?  
